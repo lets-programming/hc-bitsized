@@ -1,6 +1,6 @@
 ![bitsized](https://user-images.githubusercontent.com/109427932/180880105-56aea50f-35e6-4df5-a801-b16f6df1ff85.png)
 
-<h1 align = "center">Olá, somos o grupo 4 da casa Bitsized! 🐙
+<h1 align = "center">Olá, somos a casa Bitsized! 🐙
 </h1>
 
 Aqui você encontrará os trabalhos desenvolvidos na terceira edição do Hiring Coders. A seguir, listamos os membros de nossa equipe, por favor, fique a vontade para visitar as nossas redes sociais e entrar em contato.
