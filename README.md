@@ -13,7 +13,7 @@ Aqui você encontrará os trabalhos desenvolvidos na terceira edição do Hiring
   <a href="https://github.com/brunakroth" target="_blank">
     <img align="left" src="https://img.shields.io/badge/Github-423f6d?style=for-the-badge&logo=github&logoColor=753ed2" />        
   </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/bruna-kroth" target="_blank">
+  <a href="https://www.linkedin.com/in/bruna-kroth-5047bb53" target="_blank">
     <img align="left" src="https://img.shields.io/badge/LinkedIN-423f6d?style=for-the-badge&logo=linkedin&logoColor=753ed2" />
   </a>&nbsp;&nbsp;
 </p>
